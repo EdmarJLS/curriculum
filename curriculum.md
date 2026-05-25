@@ -35,7 +35,7 @@ Estudante de **Sistemas para Internet** com foco em desenvolvimento web e automa
   - Integração entre plataformas (**Monday.com**, **WhatsApp** e **Chatwoot**) via APIs.
   - Otimização de processos operacionais, reduzindo drasticamente o trabalho manual.
  
-*  **Grupo WK — Auxiliar Administrativo | Operações, Tecnologia e TI** - Ceres, GO - Ago 2022 - Nov 2024
+* **Grupo WK — Auxiliar Administrativo | Operações, Tecnologia e TI** - Ceres, GO - Ago 2022 - Nov 2024
   - Suporte técnico interno e apoio ao departamento de Inovação.
   - Fiscalização remota de processos e análise de dados operacionais via **Excel**.
   - Gestão de logística e rastreamento de cargas.
